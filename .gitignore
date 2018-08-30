@@ -4,3 +4,6 @@
 # hosting 관련 파일 무시
 .firebaserc
 firebase.json
+
+# font 파일 무시
+font/

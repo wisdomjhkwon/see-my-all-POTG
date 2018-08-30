@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face{
+    font-family: koverwatch;
+    src:url('/font/koverwatch.woff');
+}
+
+body {
+    font-family: koverwatch;
+}
