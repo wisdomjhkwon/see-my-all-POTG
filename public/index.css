@@ -2,7 +2,11 @@
 
 @font-face{
     font-family: 'koverwatch';
-    src:url('../font/koverwatch.woff');
+    src:url('./font/koverwatch.eot') format('eot');
+    src:url('./font/koverwatch.woff') format('woff'),
+    url('./font/koverwatch.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/koverwatch.svg') format('svg'),
+    url('./font/koverwatch.ttf') format('truetype');
 }
 
 body {
